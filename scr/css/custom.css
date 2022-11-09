@@ -1,0 +1,14 @@
+.bg-dark {
+background-color: #f81313!important;
+}
+.nav-link {
+    font-size: 18px;
+}
+.col-sm-4 h3{
+    font-family: 'Prompt', sans-serif;
+    font-weight: 100;
+    text-shadow:2px 1px 2px #f81414;
+}
+#symbol{
+    font-family: 'Prompt', sans-serif;
+}
